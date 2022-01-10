@@ -1,4 +1,4 @@
 # Calculator
 Very Basic Calculator.
 
-![ScreenShot](https://raw.github.com/{ugurkan-coder00}/Calculator/{branch}/{path})
+![ScreenShot](https://github.com/ugurkan-coder00/Calculator/blob/main/one.png)
